@@ -1,3 +1,10 @@
+---
+layout: post
+title: About Page
+permalink: /about.md
+---
+
+
 # This is a test of how the ABOUT page works.
 
 Here's some unformatted text.
