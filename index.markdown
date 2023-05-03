@@ -1,6 +1,14 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 ---
+
+<h1>Welcome to my website</h1>
+
+<p>Here are some links to pages on my site:</p>
+
+<ul>
+  <li><a href="/career.html">Career</a></li>
+  <li><a href="/writing.html">Writing</a></li>
+  <li><a href="/photography.html">Photography</a></li>
+  <li><a href="/about.html">About</a></li>
+</ul>
