@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<h1>Welcome to my website</h1>
+<h1>William Engels</h1>
 
 <p>Here are some links to pages on my site:</p>
 

@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+William Engels was born in 1997 in San Diego, California.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+From 2015-2018 he attended the University of Chicago, where he earned a Bachelor's Degree in Philosophy and completed coursework in neuroscience, human development, and computer science.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+After graduation, he launched a new venture called SinkGuard, a healthcare device startup that eventually earned national accelerator investment, five-figure pitch competition funding, and acceptance into the prestigious MATTER Healthcare Incubator.
 
+He is currently (2023) exploring the application of data science to hard problems in healthcare, such as the prediction of chronic illnesses and the computer-aided diagnosis of cancer.
 
-[jekyll-organization]: https://github.com/jekyll
+Pursuant to his interest in philosophy, he maintains a [Substack page](https://williamengels.substack.com) where he writes detailed but accessible biographies of people who were oppressed for their beliefs.
