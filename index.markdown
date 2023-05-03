@@ -10,5 +10,4 @@ layout: home
   <li><a href="/career.html">Career</a></li>
   <li><a href="/writing.html">Writing</a></li>
   <li><a href="/photography.html">Photography</a></li>
-  <li><a href="/about.html">About</a></li>
 </ul>
